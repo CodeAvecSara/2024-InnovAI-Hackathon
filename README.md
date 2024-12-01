@@ -1,9 +1,3 @@
-# Souk Connect 🌍🕌✨ Modernizing Moroccan Souks with AI, AR, and Digital Payments
-
-Voici un exemple d'un fichier **README** captivant pour votre projet "Souk Connect" :  
-
----
-
 # Souk Connect 🌍🕌✨  
 **Modernizing Moroccan Souks with AI, AR, and Digital Payments**  
 
