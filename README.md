@@ -25,22 +25,6 @@ With major global events like the **2030 FIFA World Cup** and **CAN 2025** appro
 - **Cultural Preservation**: Highlight the unique know-how of Moroccan craftsmanship.  
 - **Sustainability**: Promote an eco-friendly and inclusive approach to souk digitalization.  
 
-## 💡 How It Works  
-1. **Artisans Register**: Simple onboarding for vendors to join the platform.  
-2. **Product Listing**: Upload products with descriptions in multiple languages.  
-3. **AI Integration**: Real-time insights for inventory, pricing, and demand forecasts.  
-4. **Visitor Experience**: International customers explore souks through AR-enhanced interactions and secure digital payments.  
-
-## 🤝 Collaboration Opportunities  
-We are actively seeking partnerships with:  
-- **Artisans and Souk Associations**  
-- **Tech Innovators in AI and AR**  
-- **Payment Solution Providers**  
-- **Cultural and Tourism Organizations**  
-
-## 🌐 Join Us in Making Souks Smart and Global  
-Be part of the Souk Connect journey! Together, we can ensure that Moroccan artisans thrive in the digital era while preserving the soul of our traditional souks.  
-
 
 
  "Preserving heritage, embracing innovation."  
