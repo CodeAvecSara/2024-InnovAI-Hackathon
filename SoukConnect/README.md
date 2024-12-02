@@ -19,6 +19,15 @@ Souk Connect is an AI-powered platform designed to revolutionize traditional Mor
 ## 🌍 Why Now?  
 With major global events like the **2030 FIFA World Cup** and **CAN 2025** approaching, Souk Connect equips Moroccan artisans with the tools they need to thrive in a globalized economy. This is the moment to bridge tradition with innovation and offer international visitors an authentic, accessible souk experience.  
 
+## 🛠️Technologies Used
+Frontend Development: Flutter, Dart
+Backend Services: Node.js, Flask
+Databases: PostgreSQL, MongoDB
+AI Features: TensorFlow, ResNet50, Google Vision AI
+Augmented Reality: ARCore, ARKit
+Multilingual Translation: Google Cloud Translation API
+Payment Systems: Stripe, PayPal, Regional Payment Gateways
+
 ## 📈 Impact  
 - **Global Market Access**: Connect Moroccan artisans to international buyers.  
 - **Increased Sales**: Maximize revenue with smart pricing strategies.  
