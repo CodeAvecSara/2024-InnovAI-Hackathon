@@ -25,6 +25,10 @@ With major global events like the **2030 FIFA World Cup** and **CAN 2025** appro
 - **Cultural Preservation**: Highlight the unique know-how of Moroccan craftsmanship.  
 - **Sustainability**: Promote an eco-friendly and inclusive approach to souk digitalization.  
 
+You will find here our Google collab file that contains all the links :
+
+Google Colab 📍 : 
+https://colab.research.google.com/drive/1qD-41BS1HbKFnkUfHPQeewkNcrMXauP0?usp=sharing
 
 
  "Preserving heritage, embracing innovation."  
